@@ -9,6 +9,7 @@
   - [Akatsuki](https://github.com/rl404/akatsuki) - MyAnimeList anime database dump and REST API.
   - [Akizuki](https://github.com/rl404/akizuki) - View and edit your MyAnimeList anime and manga list in a more modern design with custom tags editor.
   - [Hibiki](https://github.com/rl404/hibiki) - MyAnimeList manga database dump and REST API.
+  - [Ikazuchi](https://github.com/rl404/ikazuchi) - Explore anime database with Bakemonogatari theme.
   - [Inazuma](https://github.com/rl404/inazuma) - Explore manga in manga style.
   - [MAL Cover](https://github.com/rl404/mal-cover) - Auto generate MyAnimeList anime/manga cover.
   - [MyAnimeList](https://github.com/rl404/MyAnimeList) - MyAnimeList List Design Theme.
