@@ -19,9 +19,10 @@
 - Vtuber
   - [Amatsukaze](https://github.com/rl404/amatsukaze) - Visualize vtuber data from wikia to more modern website pages.
   - [Shimakaze](https://github.com/rl404/shimakaze) - Vtuber wikia scraper and REST API.
-- Bot
+- Discord
   - [Hayasui](https://github.com/rl404/hayasui) - Discord bot to get anime/manga/character/people data with interactive response message.
   - [Naka](https://github.com/rl404/naka) - Discord bot to play youtube song.
   - [Nyaa x Discord](https://github.com/rl404/nyaa-x-discord) - Discord bot to notify Nyaa updates.
+  - [Yuubari](https://github.com/rl404/yuubari) - List your Discord Emojis & Stickers from all your joined Discord servers.
 
 <p align=center>- <a href='https://www.rl404.com' target='__blank'>rl404.com</a> -</p>
